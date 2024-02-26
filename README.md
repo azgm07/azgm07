@@ -1,4 +1,7 @@
-# Gustavo J. G. Meilus
+# Gustavo Meilus
+
+<!--[![Azgm07's GitHub stats](https://github-readme-stats.vercel.app/api?username=azgm07)](https://github.com/azgm07/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azgm07&layout=compact)-->
 
 - 📍 Sao Paulo, Brazil
 - 🌐 [LinkedIn](https://linkedin.com/in/gmeilus)
@@ -29,23 +32,23 @@ Games have been an integral part of my life, igniting a deep passion within me t
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20" /> Javascript
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="20" /> Azure
 
-### Languages
+## Languages
 
 - <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/br.svg" width="20" /> Portuguese (Native)
 - <img src="https://raw.githubusercontent.com/lipis/flag-icons/main/flags/1x1/us.svg" width="20" /> English (Fluent)
 
-### Certifications
+## Certifications
 
 - DP-900 Azure Data Fundamentals, Microsoft (05/2021)
 - Foundational C# with Microsoft, freeCodeCamp (01/2024)
 
-### Education
+## Education
 
 - B.Sc. in Computer Engineering  
   Univ. Tecnológica Federal do Paraná (02/2019)  
   Cornélio Procópio, Brazil
 
-### Let's Connect!
+## Let's Connect!
 
 Feel free to reach out if you'd like to collaborate or chat about game development, software engineering, or anything in between. Let's create something amazing together!
 
