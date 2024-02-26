@@ -8,18 +8,17 @@
 
 ## Summary
 
-🇧🇷 Living in Sao Paulo  
-💻 Software QA Engineer 
-🎮 Aspiring Game Developer  
-🗣️ Speaks Portuguese and English  
-🎨 Enthusiastic about 3d modeling in Blender
-✍️ Passionate about narrative design
+- 💻 Software QA Engineer 
+- 🎮 Aspiring Game Developer  
+- 🗣️ Speaks Portuguese and English  
+- 🎨 Enthusiastic about 3d modeling in Blender
+- ✍️ Passionate about narrative design
 
 ---
 
 ## More about me
 
-I'm a software engineer based in Sao Paulo, Brazil, with a passion for game development. I've been fascinated by computers and programming since a young age, and I've developed a diverse skill set over the years.
+I'm a software engineer with a passion for game development. I've been fascinated by computers and programming since a young age, and I've developed a diverse skill set over the years.
 
 I've had experience working as a Quality Engineer and Software Developer, where I've honed my skills in C#, .NET, and Unity3D. I believe in constantly learning and pushing boundaries, both in my professional and personal endeavors.
 
