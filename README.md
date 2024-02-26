@@ -1,20 +1,15 @@
 # Gustavo J. G. Meilus
-## Software Engineer | Aspiring Game Developer 🎮
 
-📍 Sao Paulo, Brazil
-🌐 [LinkedIn](https://linkedin.com/in/gmeilus)
-
----
+- 📍 Sao Paulo, Brazil
+- 🌐 [LinkedIn](https://linkedin.com/in/gmeilus)
 
 ## Summary
 
-- 💻 Software QA Engineer 
-- 🎮 Aspiring Game Developer  
-- 🗣️ Speaks Portuguese and English  
-- 🎨 Enthusiastic about 3d modeling in Blender
-- ✍️ Passionate about narrative design
-
----
+- ### 💻 Software QA Engineer 
+- ### 🎮 Aspiring Game Developer  
+- ### 🗣️ Speaks Portuguese and English  
+- ### 🎨 Enthusiastic about 3d modeling in Blender
+- ### ✍️ Passionate about narrative design
 
 ## More about me
 
@@ -23,8 +18,6 @@ I'm a software engineer with a passion for game development. I've been fascinate
 I've had experience working as a Quality Engineer and Software Developer, where I've honed my skills in C#, .NET, and Unity3D. I believe in constantly learning and pushing boundaries, both in my professional and personal endeavors.
 
 Games have been an integral part of my life, igniting a deep passion within me that extends beyond mere play. I am driven to pursue a professional career in game development, encompassing various facets such as 3D art, narrative design, and coding. To realize my dreams as a game developer, I deliberately chose the path of Computer Engineering in my professional journey.
-
----
 
 ## Knowledge & Technologies
 
@@ -51,8 +44,6 @@ Games have been an integral part of my life, igniting a deep passion within me t
 - B.Sc. in Computer Engineering  
   Univ. Tecnológica Federal do Paraná (02/2019)  
   Cornélio Procópio, Brazil
-
----
 
 ### Let's Connect!
 
