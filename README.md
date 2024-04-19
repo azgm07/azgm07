@@ -14,6 +14,9 @@
 - ### 🎨 Enthusiastic about 3d modeling in Blender
 - ### ✍️ Passionate about narrative design
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azgm07&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 ## More about me
 
 I'm a software engineer with a passion for game development. I've been fascinated by computers and programming since a young age, and I've developed a diverse skill set over the years.
@@ -31,6 +34,8 @@ Games have been an integral part of my life, igniting a deep passion within me t
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="20" /> Playwright
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="20" /> Javascript
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="20" /> Azure
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=azgm07&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Languages
 
