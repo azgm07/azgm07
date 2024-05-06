@@ -8,11 +8,10 @@
 
 ## Summary
 
-- ### 💻 Software QA Engineer 
-- ### 🎮 Aspiring Game Developer  
+- ### 💻 Software Engineer
+- ### 🎨 Enthusiastic about 3d modelling in Blender
 - ### 🗣️ Speaks Portuguese and English  
-- ### 🎨 Enthusiastic about 3d modeling in Blender
-- ### ✍️ Passionate about narrative design
+- ### ✍️ Aspiring about writing and narrative design
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=azgm07&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
