@@ -22,8 +22,6 @@ I'm a software engineer with a passion for game development. I've been fascinate
 
 I've had experience working as a Quality Engineer and Software Developer, where I've honed my skills in C#, .NET, and Unity3D. I believe in constantly learning and pushing boundaries, both in my professional and personal endeavors.
 
-Games have been an integral part of my life, igniting a deep passion within me that extends beyond mere play. I am driven to pursue a professional career in game development, encompassing various facets such as 3D art, narrative design, and coding. To realize my dreams as a game developer, I deliberately chose the path of Computer Engineering in my professional journey.
-
 ## Knowledge & Technologies
 
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="20" /> C#
