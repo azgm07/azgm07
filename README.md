@@ -18,9 +18,7 @@
 
 ## More about me
 
-I'm a software engineer with a passion for game development. I've been fascinated by computers and programming since a young age, and I've developed a diverse skill set over the years.
-
-I've had experience working as a Quality Engineer and Software Developer, where I've honed my skills in C#, .NET, and Unity3D. I believe in constantly learning and pushing boundaries, both in my professional and personal endeavors.
+Experienced Software Engineer dedicated to software development, quality assurance, and CRM consultancy. Proficient in C#, Python, and JavaScript with frameworks .NET and Node.js, utilizing automated testing tools such as Playwright and Selenium. Skilled in Agile methodologies and adept at CI/CD environments. Fluent in English and Portuguese, fostering effective communication across diverse teams. Currently pursuing an MBA in Software Engineering to deepen technical expertise and stay ahead of industry advancements, committed to contributing innovative solutions in software development.
 
 ## Knowledge & Technologies
 
